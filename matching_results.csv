@@ -1,0 +1,193 @@
+,city_names,matched_name,population,geonameid
+0,Épieds,Épieds,358.0,3020044.0
+1,Entrevennes,Entrevennes,155.0,3020118.0
+2,Gréoux-les-Bains,Gréoux-les-Bains,2045.0,3014717.0
+3,Ancelle,Koreatown,124281.0,5363748.0
+4,Éourres,Éourres,0.0,3020101.0
+5,Saint-Crépin,Saint-Crépin,576.0,2981002.0
+6,Entraunes,Entraunes,130.0,3020137.0
+7,Dricourt,Dricourt,112.0,3020801.0
+8,L' Écaille,L’Écaille,0.0,3004889.0
+9,Aigues-Vives,Aigues-Vives,2525.0,3038488.0
+10,Gudas,Forest Lakes,0.0,4578892.0
+11,L' Herm,L’Herm,0.0,2998623.0
+12,Gramond,Gramond,376.0,3015376.0
+13,Honfleur,Honfleur,8148.0,3013173.0
+14,Houlette,Dumas,15001.0,5520552.0
+15,Les Églises-d'Argenteuil,Les Églises-d’Argenteuil,0.0,3001177.0
+16,Hiers-Brouage,Hiers-Brouage,593.0,3013293.0
+17,Égletons,Egletons,0.0,6544981.0
+18,Étalante,Étalante,151.0,3019467.0
+19,Plévin,Plévin,811.0,2986748.0
+20,Écot,Écot,413.0,3020447.0
+21,Hérimoncourt,Hérimoncourt,4099.0,3013448.0
+22,L' Hôpital-du-Grosbois,L’Hôpital-du-Grosbois,0.0,2998572.0
+23,Indevillers,Indevillers,204.0,3012808.0
+24,Bésignan,Bésignan,73.0,3033118.0
+25,Guiseniers,Guiseniers,404.0,3014193.0
+26,Honguemare-Guenouville,Honguemare-Guenouville,650.0,3013171.0
+27,Giuncaggio,Giuncaggio,83.0,3015916.0
+28,Estézargues,Estézargues,414.0,3019541.0
+29,Huos,Huos,454.0,3012975.0
+30,Trébons-sur-la-Grasse,Trébons-sur-la-Grasse,363.0,2972004.0
+31,Idrac-Respaillès,Idrac-Respailles,0.0,3012913.0
+32,L' Isle-Arné,L’Isle-Arné,0.0,2998139.0
+33,L' Isle-Bouzon,L’Isle-Bouzon,0.0,2998138.0
+34,L' Isle-de-Noé,L’Isle-de-Noé,0.0,2998135.0
+35,Hédé-Bazouges,Hédé-Bazouges,2076.0,3013596.0
+36,Huismes,Huismes,1456.0,3013011.0
+37,Agnin,Agnin,855.0,3038596.0
+38,Hurtières,Hurtières,130.0,3012957.0
+39,Étival,Étival,301.0,3019404.0
+40,Estivareilles,Estivareilles,1058.0,3019528.0
+41,Gumières,Gumières,271.0,3014170.0
+42,L' Hôpital-le-Grand,L’Hôpital-le-Grand,0.0,2998570.0
+43,L' Hôpital-sous-Rochefort,L’Hôpital-sous-Rochefort,0.0,2998566.0
+44,Éroudeville,Éroudeville,249.0,3019882.0
+45,Épernay,Épernay,27082.0,3020062.0
+46,Noyers,Noyers,829.0,2989887.0
+47,Le Housseau-Brétignolles,Le Housseau-Brétignolles,0.0,3003770.0
+48,Honskirch,Honskirch,198.0,3013167.0
+49,Héloup,Héloup,945.0,3013552.0
+50,Lalacelle,Lalacelle,271.0,3008564.0
+51,Higuères-Souye,Higuères-Souye,274.0,3013288.0
+52,L' Hôpital-d'Orion,L’Hôpital-d’Orion,0.0,2998573.0
+53,Cantaous,Cantaous,0.0,6620159.0
+54,Anse,L'Anse,1934.0,4998431.0
+55,Lucenay,Lucenay,1454.0,2997241.0
+56,Vy-lès-Filain,Vy-lès-Filain,74.0,2967533.0
+57,L' Abergement-de-Cuisery,L’Abergement-de-Cuisery,0.0,3011115.0
+58,Hautefond,Hautefond,0.0,6620166.0
+59,Yvoire,Yvoire,707.0,2967181.0
+60,Paris 1er Arrondissement,Paris 01 Ancien - Quartier Tuileries,0.0,9844893.0
+61,Paris 2e Arrondissement,Paris 03 Ancien - Quartier Mail,0.0,9843598.0
+62,Paris 3e Arrondissement,Paris 03 Temple,0.0,2973189.0
+63,Paris 4e Arrondissement,Paris 09 Ancien - Quartier Île-Saint-Louis,0.0,9843562.0
+64,Paris 5e Arrondissement,Paris 12 Ancien - Quartier Jardins-du-Roi,0.0,9843574.0
+65,Paris 6e Arrondissement,Paris 11 Ancien - Quartier Luxembourg,0.0,9843583.0
+66,Paris 7e Arrondissement,Paris 10 Ancien - Quartier Saint-Thomas-d'Aquin,0.0,9843588.0
+67,Paris 8e Arrondissement,Paris 08 Élysée,0.0,3020270.0
+68,Paris 9e Arrondissement,Paris 02 Ancien - Quartier Chaussée-d'Antin,0.0,9844659.0
+69,Paris 10e Arrondissement,Paris 05 Ancien - Quartier Faubourg-Saint-Denis,0.0,9843884.0
+70,Paris 11e Arrondissement,Paris 11 Popincourt,0.0,2986082.0
+71,Paris 12e Arrondissement,Saint-Maurice,14282.0,2978170.0
+72,Paris 13e Arrondissement,Paris 13 Gobelins,0.0,3015772.0
+73,Paris 14e Arrondissement,Paris 14 Observatoire,0.0,2989781.0
+74,Paris 15e Arrondissement,Paris 15 Vaugirard,0.0,2970479.0
+75,Paris 16e Arrondissement,Paris 16 Passy,0.0,2988394.0
+76,Paris 17e Arrondissement,Paris 17 Batignolles-Monceau,0.0,3034610.0
+77,Paris 18e Arrondissement,Paris 18 Buttes-Montmartre,0.0,3029374.0
+78,Paris 19e Arrondissement,Paris 19 Buttes-Chaumont,0.0,3029372.0
+79,Notre-Dame-du-Parc,Notre-Dame-du-Parc,132.0,2990027.0
+80,Les Essarts-le-Roi,Les Essarts-le-Roi,6213.0,3001126.0
+81,Voisins-le-Bretonneux,Voisins-le-Bretonneux,13486.0,2967745.0
+82,Eaucourt-sur-Somme,Eaucourt-sur-Somme,390.0,3020598.0
+83,Étinehem-Méricourt,Étinehem,283.0,3019407.0
+84,Grisolles,Grisolles,3119.0,3014606.0
+85,Grillon,Beaux-Rivages--Lac-des-Écorces--Val-Barrette,0.0,5896584.0
+86,Vitrolles-en-Lubéron,Vitrolles-en-Lubéron,158.0,2967869.0
+87,L' Aiguillon-sur-Mer,LAiguillon-sur-Mer,0.0,3008668.0
+88,Les Epesses,Les Epesses,2255.0,3001157.0
+89,La Guyonnière,Saint-Julien-des-Landes,1179.0,2979090.0
+90,Les Herbiers,Les Herbiers,15664.0,3000648.0
+91,L' Hermenault,L’Hermenault,0.0,2998614.0
+92,L' Île-d'Elle,L’Île-d’Elle,0.0,2998332.0
+93,L' Île-d'Olonne,L’Île-d’Olonne,0.0,2998331.0
+94,Olonne-sur-Mer,Olonne-sur-Mer,11157.0,2989572.0
+95,Ingrandes,Ingrandes,1503.0,3012783.0
+96,Island,Winfield,12204.0,4281897.0
+97,Gournay-sur-Marne,Gournay-sur-Marne,6073.0,3015507.0
+98,Gentilly,Milneburg,0.0,4333498.0
+99,Hodent,Hodent,285.0,3013232.0
+100,Wy-dit-Joli-Village,Wy-dit-Joli-Village,0.0,2967283.0
+101,Les Abymes,Le Raizet,0.0,11546599.0
+102,Anse-Bertrand,Mahaudière,0.0,3578886.0
+103,Baie-Mahault,Houëlbourg,0.0,3579105.0
+104,Baillif,Bois Raimbault,0.0,11545149.0
+105,Basse-Terre,Petit Parc,0.0,11545140.0
+106,Bouillante,Village,0.0,3578275.0
+107,Capesterre-Belle-Eau,Blondinière,0.0,11544824.0
+108,Capesterre-de-Marie-Galante,Pierre Claire,0.0,11567947.0
+109,Gourbeyre,Dos d’Âne,0.0,11545309.0
+110,La Désirade,L’Escalier,0.0,11572361.0
+111,Deshaies,Lahaut,0.0,11542210.0
+112,Grand-Bourg,Lami,0.0,3579020.0
+113,Le Gosier,Goudenave,0.0,11546759.0
+114,Goyave,Sainte-Claire,0.0,3578462.0
+115,Lamentin,Mangot Vulcin,0.0,11601131.0
+116,Morne-à-l'Eau,Bubelloy,0.0,11546736.0
+117,Le Moule,Bauvel,0.0,11562997.0
+118,Petit-Bourg,Bois-Sergent,0.0,11540948.0
+119,Petit-Canal,Petit-Canal,8554.0,3578681.0
+120,Pointe-à-Pitre,Massabielle,0.0,11546631.0
+121,Saint-Claude,Saint-Claude,12418.0,2981077.0
+122,Sainte-Anne,Burat,0.0,11563290.0
+123,Sainte-Rose,Sainte-Rose,20192.0,3578447.0
+124,Terre-de-Bas,Petites-Anses,0.0,3578660.0
+125,Terre-de-Haut,Pré Cassin,0.0,11576825.0
+126,Trois-Rivières,Trois-Rivières,119693.0,6169141.0
+127,Vieux-Fort,Vieux Fort,4574.0,3576414.0
+128,Vieux-Habitants,Grand’Rivière,0.0,11544132.0
+129,L'Ajoupa-Bouillon,Derrière Cimetière,0.0,11618768.0
+130,Les Anses-d'Arlet,Flandrin,0.0,11586912.0
+131,Basse-Pointe,Basse-Pointe,4037.0,3571097.0
+132,Le Carbet,Habitation Lajus,0.0,11632924.0
+133,Case-Pilote,Fond Bourlet Haut,0.0,3570719.0
+134,Le Diamant,Chalopin,0.0,11586926.0
+135,Ducos,Morne Lapointe,0.0,11587802.0
+136,Fonds-Saint-Denis,Deux Choux,0.0,3570812.0
+137,Fort-de-France,Fond d’Or,0.0,11632554.0
+138,Le François,Magdelonnette,0.0,11600902.0
+139,Grand'Rivière,Beauséjour,0.0,11618751.0
+140,Gros-Morne,Rocky Harbour,0.0,6126632.0
+141,Le Lamentin,Mangot Vulcin,0.0,11601131.0
+142,Le Lorrain,Le Vallon,0.0,11618741.0
+143,Macouba,Cinquante Pas,0.0,11618809.0
+144,Le Marigot,Duhamelin,0.0,3570780.0
+145,Le Marin,La Huvet,0.0,3570503.0
+146,Le Morne-Rouge,Fond Cacao,0.0,11620574.0
+147,Le Prêcheur,Quartier du Cimetière,0.0,11620458.0
+148,Rivière-Pilote,Pomponne,0.0,3570112.0
+149,Rivière-Salée,Thoraille,0.0,3569844.0
+150,Le Robert,South End,0.0,6619254.0
+151,Sainte-Marie,Sainte-Marie,20380.0,3569926.0
+152,La Trinité,Saint-Narcisse-de-Rimouski,0.0,11748150.0
+153,Les Trois-Îlets,Concorde Leyritz,0.0,3570860.0
+154,Le Vauclin,Le Vauclin,7812.0,3570392.0
+155,Bellefontaine,Bellefontaine,13117.0,5146965.0
+156,Régina,Regina,176183.0,6119109.0
+157,Cayenne,Calimbe,0.0,10311622.0
+158,Iracoubo,Cité Maripa,0.0,10370290.0
+159,Kourou,Quartier des Deux Lacs,0.0,10367221.0
+160,Macouria,Quesnel,0.0,3380531.0
+161,Mana,Johnson,3634.0,4116660.0
+162,Saint-Georges,Saint George,72897.0,5546220.0
+163,Remire-Montjoly,Cité Beauregard,0.0,3382417.0
+164,Roura,Holly Springs,7610.0,4430104.0
+165,Saint-Laurent-du-Maroni,Camp Lorrain,0.0,10372497.0
+166,Sinnamary,Sinnamary,3180.0,3380290.0
+167,Montsinéry-Tonnegrande,Tonnégrande,0.0,3380167.0
+168,Ouanary,Ouanary,0.0,3380796.0
+169,Saül,Bellevue,0.0,3382400.0
+170,Maripasoula,Maripasoula,0.0,3380994.0
+171,Camopi,Camopi,1295.0,3382226.0
+172,Grand-Santi,Ana Kondé,0.0,3382553.0
+173,Saint-Élie,Saint-Élie,0.0,3380415.0
+174,Apatou,Apatou,4752.0,3382527.0
+175,Awala-Yalimapo,Coswine,0.0,3382012.0
+176,Papaichton,Papaïchton,0.0,3380743.0
+177,Les Avirons,Le Tévelave,0.0,935577.0
+178,Bras-Panon,Îlet Payet,0.0,935760.0
+179,Entre-Deux,Bras de Ponteau,0.0,936053.0
+180,L' Étang-Salé,Les Canots,0.0,935604.0
+181,Petite-Île,Charrié,0.0,11877157.0
+182,Le Port,San Francisco,864816.0,5391959.0
+183,Saint-Joseph,Dallas,0.0,4383236.0
+184,Saint-Pierre,Saint-Pierre,6200.0,3424934.0
+185,Sainte-Marie,Sainte-Marie,20380.0,3569926.0
+186,Sainte-Suzanne,Sainte-Suzanne,1059.0,2980304.0
+187,Salazie,Bras Sec,0.0,11877914.0
+188,Le Tampon,La Plaine des Cafres,0.0,935695.0
+189,Les Trois-Bassins,Maison Lelièvre,0.0,935547.0
+190,Cilaos,Le Bras des Étangs,0.0,11877903.0
+191,Saint-Martin,Fond Mahaut,0.0,6985383.0
